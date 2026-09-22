@@ -2,15 +2,22 @@
   "name": "Hybrid AI Control Dashboard",
   "short_name": "TuningBot",
   "description": "Real-time process control and ML gain tuning dashboard",
+  "start_url": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0a1128",
   "theme_color": "#00d4ff",
-"start_url": "./",
   "icons": [
     {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
+      "src": "icon512.png",
+      "sizes": "192x192",
       "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
