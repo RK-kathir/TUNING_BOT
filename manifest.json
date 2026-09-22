@@ -1,15 +1,11 @@
 {
-  "name": "Tuning Dashboard",
-  "short_name": "TuningBot",
-  "start_url": "/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tuning bot",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "rk-kathir",
+  "start_url": "/",
+  "theme_color": "#ffffff"
 }
